@@ -94,7 +94,3 @@ Feel free to reach out for collaboration or questions!
 - 📨 Direct message on this account
 
 ---
-
-<p align="center">
-  <em>“Advancing lifelong physical excellence through open science.”</em>
-</p>
