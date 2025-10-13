@@ -76,6 +76,13 @@ The Universal Musculoskeletal Ultrasound Repository (UMUD) is a Streamlit-based 
 </p>
 The DL_Track_US package provides an easy to use graphical user interface (GUI) for deep learning based analysis of muscle architectural parameters from longitudinal ultrasonography images of human lower limb muscles. 
 
+## [EffectVisR](https://github.com/FSchwendinger/EffectVisR)
+
+<p align="left">
+  <img src="https://github.com/FSchwendinger/EffectVisR/blob/master/man/figures/hex_sticker.png?raw=true" alt="EffectVisR Project" width="25%" heigth="25%" />
+</p>
+The EffectVisR package (pronounced Effect Wizard) provides functions to easily visualise effect sizes and their 95% confidence intervals. 
+
 ## [DeepACSA](https://github.com/PaulRitsche/DeepACSA)
 <p align="left">
   <img src="https://user-images.githubusercontent.com/71383228/148084248-5e169761-a075-4c86-836a-e9b2cec56ef6.jpg" alt="DeepACSA Project" width="25%" heigth="25%" />
