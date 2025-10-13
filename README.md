@@ -6,9 +6,9 @@
 <h1 align="center">Mobi.Lab & EPhys Team @ DSBG Basel</h1>
 
 <p align="center">
-  <a href="https://mobilab.dsbg.unibas.ch/de/"><img src="https://img.shields.io/badge/Mobi.Lab-Website-blue?logo=internet-explorer" alt="Mobi.Lab Website"/></a>
-  <img src="https://img.shields.io/badge/EPhys-coming%20soon-lightgrey?logo=flask" alt="EPhys coming soon"/>
-  <img src="https://img.shields.io/badge/DSBG-Basel-00bfbf?logo=university" alt="DSBG Basel"/>
+  <a href="https://mobilab.dsbg.unibas.ch/de/"><img src="https://img.shields.io/badge/Mobi.Lab-Website-blue?style=social" alt="Mobi.Lab Website"/></a>
+  <img src="https://img.shields.io/badge/EPhys-coming%20soon-lightgrey?" alt="EPhys coming soon"/>
+  <a href="https://dsbg.unibas.ch/de/"><img src="https://img.shields.io/badge/DSBG-Basel-00bfbf?logo=university" alt="DSBG Wesbite"/></a>
 </p>
 
 ---
@@ -25,22 +25,21 @@ This account serves as the **central junction point** for all digital projects, 
 
 ---
 
-## 🌟 Mobi.Lab
+## 🏋️‍♀️ Mobi.Lab
 
 - **Website:** [mobilab.dsbg.unibas.ch](https://mobilab.dsbg.unibas.ch/de/)
 - **Mission:**
-  - 🔬 Understand the link between neuromuscular health and motor performance throughout the lifespan
-  - 🧩 Uncover the mechanistic underpinnings of intervention-induced neuromuscular adaptations
-  - 🏃‍♂️ Improve interventions for children, adolescents, athletes, and adults
-  - 📢 Disseminate and multiply effective training and prevention knowledge to the public
+  - Understand the link between neuromuscular health and motor performance throughout the lifespan
+  - Uncover the mechanistic underpinnings of intervention-induced neuromuscular adaptations
+  - Improve interventions for children, adolescents, athletes, and adults
+  - Disseminate and multiply effective training and prevention knowledge to the public
 
 ---
 
 ## ⚡ EPhys Team
 
 - **Website:** _Coming soon!_
-- Partner in core Mobi.Lab research and development
-- All EPhys digital projects will be collected here until their dedicated website is launched
+- **Mission:** _Coming soon!_
 
 ---
 
@@ -55,9 +54,35 @@ Discover our latest:
 
 ---
 
-<p align="center">
-  <img src="images/motorscience-banner.png" alt="Motor Science Banner" width="75%" />
+
+
+## [InterpretablePA](https://github.com/FSchwendinger/interpretablePA/tree/main)
+<p align="left">
+  <img src="https://github.com/FSchwendinger/interpretablePA/blob/main/app_logo.png" alt="InterpretablePA Project" width="25%" heigth="25%" />
 </p>
+InterpretablePA was created for researchers and clinicians interested in measuring human movement using raw-acceleration accelerometers in various populations or individuals.
+
+## [Universal Musculoskeletal Ultrasonography Database](https://github.com/PaulRitsche/UMUD/tree/main) 
+
+<p align="left">
+  <img src="https://github.com/PaulRitsche/UMUD/blob/main/webapp/webapp_files/logo.png?raw=true" alt="UMUD Project" width="25%" heigth="25%" />
+</p>
+The Universal Musculoskeletal Ultrasound Repository (UMUD) is a Streamlit-based web application designed to provide easy access to metadata about muscle ultrasonography datasets.
+
+## [DL_Track_US](https://github.com/PaulRitsche/DL_Track_US)
+
+<p align="left">
+  <img src="https://github.com/PaulRitsche/DL_Track_US/raw/main/DL_Track_US/gui_helpers/gui_files/DLTrack_logo.png" alt="DLTrack Project" width="25%" heigth="25%" />
+</p>
+The DL_Track_US package provides an easy to use graphical user interface (GUI) for deep learning based analysis of muscle architectural parameters from longitudinal ultrasonography images of human lower limb muscles. 
+
+## [DeepACSA](https://github.com/PaulRitsche/DeepACSA)
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/71383228/148084248-5e169761-a075-4c86-836a-e9b2cec56ef6.jpg" alt="DeepACSA Project" width="25%" heigth="25%" />
+</p>
+DeepACSA is an open-source tool to evaluate the anatomical cross-sectional area of muscles in ultrasound images using deep learning. 
+
+
 
 ---
 
