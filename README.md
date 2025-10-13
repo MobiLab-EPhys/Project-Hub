@@ -1,6 +1,6 @@
 <!-- LOGO PLACEHOLDER -->
 <p align="center">
-  <img src="images/lab-logo.png" alt="Mobi.Lab & EPhys Team Logo" width="180"/>
+  <img src="https://github.com/user-attachments/assets/952244f3-1479-4037-858c-b80792347a3b" alt="Mobi.Lab & EPhys Team Logo" width="180"/>
 </p>
 
 <h1 align="center">Mobi.Lab & EPhys Team @ DSBG Basel</h1>
@@ -23,7 +23,6 @@
 Welcome to the **Mobi.Lab & EPhys Team** GitHub hub!  
 This account serves as the **central junction point** for all digital projects, code, and research tools created by both labs at the Department of Sport, Exercise and Health (DSBG), University of Basel.
 
----
 
 ## 🏋️‍♀️ Mobi.Lab
 
