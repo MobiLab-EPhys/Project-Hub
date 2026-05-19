@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://mobilab.dsbg.unibas.ch/de/"><img src="https://img.shields.io/badge/Mobi.Lab-Website-blue?style=social" alt="Mobi.Lab Website"/></a>
-  <img src="https://img.shields.io/badge/EPhys-coming%20soon-lightgrey?" alt="EPhys coming soon"/>
-  <a href="https://dsbg.unibas.ch/de/"><img src="https://img.shields.io/badge/DSBG-Basel-00bfbf?logo=university" alt="DSBG Wesbite"/></a>
+  <a href="https://ephys.dsbg.unibas.ch/en/"><img src="https://img.shields.io/badge/EPhys-Website-lightgrey?" alt="EPhys Website"/></a>
+  <a href="https://dsbg.unibas.ch/de/"><img src="https://img.shields.io/badge/DSBG-Basel-00bfbf?logo=university" alt="DSBG Website"/></a>
 </p>
 
 ---
@@ -37,8 +37,12 @@ This account serves as the **central junction point** for all digital projects, 
 
 ## ⚡ EPhys Team
 
-- **Website:** _Coming soon!_
-- **Mission:** _Coming soon!_
+- **Website:** [https://ephys.dsbg.unibas.ch/en/](https://ephys.dsbg.unibas.ch/en/)
+- **Mission:**
+  - Understand how exercise, training, and environmental factors shape health across the lifespan
+  - Investigate how physical activity, climate, air quality, age, sex, and gender interact to influence health
+  - Develop effective strength, movement, prevention, and therapy strategies for diverse populations
+  - Translate measurement data, interviews, and stakeholder input into practical solutions for healthy, active, and self-determined living
 
 ---
 
