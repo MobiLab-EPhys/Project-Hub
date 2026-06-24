@@ -37,8 +37,12 @@ This account serves as the **central junction point** for all digital projects, 
 
 ## ⚡ EPhys Team
 
-- **Website:** _Coming soon!_
-- **Mission:** _Coming soon!_
+- **Website:** [ephys.dsbg.unibas.ch](https://ephys.dsbg.unibas.ch/en/)
+- **Mission:**
+  - Understand how physical activity, exercise, and environmental factors influence health across the lifespan
+  - Uncover the physiological and neuromuscular mechanisms underlying adaptation, recovery, and healthy aging
+  - Improve prevention, rehabilitation, and exercise interventions for clinical and healthy populations
+  - Generate evidence-based solutions that promote active, independent, and healthy living
 
 ---
 
@@ -109,7 +113,7 @@ Adapted from the original OTB-Python project by OT Bioelettronica with extension
 ## 📬 Contact
 
 Feel free to reach out for collaboration or questions!
-- 🌐 via [Mobi.Lab website](https://mobilab.dsbg.unibas.ch/de/)
+- 🌐 via [Mobi.Lab website](https://mobilab.dsbg.unibas.ch/de/) or [E-phys website](https://ephys.dsbg.unibas.ch/en/)
 - 💼 via GitHub [Issues](https://github.com/MobiLab-EPhys)
 - 📨 Direct message on this account
 
