@@ -90,9 +90,19 @@ DeepACSA is an open-source tool to evaluate the anatomical cross-sectional area 
 
 ## [openhdemg](https://github.com/GiacomoValliPhD/openhdemg)
 <p align="left">
-  <img src="https://camo.githubusercontent.com/9e51f57b20276a52c0583ab94c4ec26276ab6b5d1fcf6014677919ec20e4b343/68747470733a2f2f7777772e676961636f6d6f76616c6c692e636f6d2f6f70656e6864656d672f6d645f67726170686963732f696e6465782f62616e6e65725f6c6f676f2e706e67" alt="openhdemg Project" width="25%" heigth="25%" />
+  <img src="https://www.giacomovalli.com/openhdemg/md_graphics/index/banner_logo.png" alt="openhdemg Project" width="25%" heigth="25%" />
 </p>
 openhdemg is an open-source framework written in Python 3 with many functionalities specifically designed for the analysis of High-Density Electromyography (HD-EMG) recordings. 
+
+## [OTB-Python](https://github.com/Alberto-Guzzi/OTB-Python-main)
+
+<p align="left">
+  <img src="https://github.com/Alberto-Guzzi/OTB-Python-main/blob/main/example_accuracy_plot.png?raw=true" alt="OTB-Python Plot" width="50%" heigth="50%" />
+</p>
+
+OTB-Python provides Python-based tools for communicating with OT Bioelettronica devices and quantifying tracking performance (e.g., RMSE and accuracy) during trapezoidal trajectory tasks.
+
+Adapted from the original OTB-Python project by OT Bioelettronica with extensions for neuromuscular research applications.
 
 ---
 
